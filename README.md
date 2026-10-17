@@ -1,16 +1,18 @@
-## Hi there 👋
+# 你好，我是 Kyj1e
 
-<!--
-**Kyj1e/Kyj1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是武夷学院人工智能专业本科生，关注计算机视觉、图像处理、AI 应用与嵌入式系统，希望通过实际项目积累从问题分析到应用实现的经验。
 
-Here are some ideas to get you started:
+## 学习方向
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **计算机视觉与图像处理**：机器视觉、数字图像处理，以及相关应用项目。
+- **自然语言处理与 AI 应用**：自然语言处理课程，多模态大模型与 AI Agent 相关内容的自主学习。
+- **嵌入式与基础能力**：自主学习嵌入式系统原理、计算机组成原理和数字电路设计。
+- **软件基础**：数据结构、数据库原理、Web 前端开发。
+
+## 技术作品
+
+正在整理可公开分享的项目，逐步补充项目说明、效果截图、演示视频和运行方法。
+
+## 关于我
+
+参与过学院学术部、校大学生艺术团主持队与合唱队，以及学院活动主持。在技术项目之外，也积累了团队协作、材料整理和表达展示方面的经验。
